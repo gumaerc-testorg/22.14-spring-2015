@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1f0023c5-88bf-7787-c3ff-b42f8923bc19
 ---
@@ -148,7 +150,7 @@ n/a
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 _The Language of Materials Science_
 {{< tdclose >}}
 {{< tdopen >}}
@@ -175,7 +177,7 @@ Problem Set 1
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 _Thermodynamics_
 {{< tdclose >}}
 {{< tdopen >}}
@@ -202,7 +204,7 @@ n/a
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 _Material Deformation and Failure_
 {{< tdclose >}}
 {{< tdopen >}}
@@ -241,7 +243,7 @@ n/a
 {{< tdopen >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 _Radiation Damage and Effects_
 {{< tdclose >}}
 {{< tdopen >}}
