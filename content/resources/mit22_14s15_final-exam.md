@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
+parent_uid: 7408c4a0-d2eb-bd3e-c661-0fa9b540a4f6
 resourcetype: Document
 title: 22.14 Final Exam, Spring 2015
 uid: c03a7049-46df-d06c-ad19-3ff015e7669d

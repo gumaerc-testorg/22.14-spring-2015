@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3d94754e-5ecb-2a60-f597-7c309e4be59e
 resourcetype: Document
 title: Lecture 1 Nuclear Materials Overview
 uid: e42f9a43-b1c0-5222-967c-9b53b686111d

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
+parent_uid: 7408c4a0-d2eb-bd3e-c661-0fa9b540a4f6
 resourcetype: Document
 title: Problem Set 4 Radiation Damage Solutions
 uid: a56ff2e7-0f44-d6be-aa7d-6bd3d55494e8

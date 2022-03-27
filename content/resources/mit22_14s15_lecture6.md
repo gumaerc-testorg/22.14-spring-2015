@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3d94754e-5ecb-2a60-f597-7c309e4be59e
 resourcetype: Document
 title: Lecture 6 Radiation Effects in Materials
 uid: e7d9c9ce-7a46-3c85-ffed-ffb77e086f39

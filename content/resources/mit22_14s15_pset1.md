@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
+parent_uid: 7408c4a0-d2eb-bd3e-c661-0fa9b540a4f6
 resourcetype: Document
 title: Problem Set 1 Review Paper
 uid: 55ab7fd3-01ea-1be1-4eb6-a673122c4c50

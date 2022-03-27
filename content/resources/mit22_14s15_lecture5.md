@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3d94754e-5ecb-2a60-f597-7c309e4be59e
 resourcetype: Document
 title: Lecture 5 Radiation Damage Mechanisms and Rates
 uid: 8241f0e1-6980-3b7f-e067-29844559ddc5

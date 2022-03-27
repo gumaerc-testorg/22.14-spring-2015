@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Exams
 parent_type: CourseSection
+parent_uid: 7408c4a0-d2eb-bd3e-c661-0fa9b540a4f6
 resourcetype: Document
 title: Problem Set 4 Oral Exam 2
 uid: 6d53e80d-194b-27f7-9e83-2cf0b1cccd81

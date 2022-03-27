@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 03d916b3-5f45-bfd1-0d8b-ae0c78ce8b2a
 resourcetype: Document
 title: Free Energy Diagram to Phase Diagram Example
 uid: 7823c35e-bb5c-0fdb-9cf5-6fdb19030777
