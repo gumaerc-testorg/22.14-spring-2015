@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the assignments for each session of
+  the course and additional reading resources.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -85,7 +87,7 @@ Additional Reading Resources
 
 Jiang, Qing, and Zi Wen. _Thermodynamics of Materials_. Springer, 2011. ISBN: 9783642147173. \[Preview with [Google Books](http://books.google.com/books?id=3TfJOP2kd6YC&printsec=frontcover)\]
 
-[Free Energy Diagram to Phase Diagram Example (PDF)]({{< baseurl >}}/resources/mit22_14s15_freeenergydiag)
+{{% resource_link 7823c35e-bb5c-0fdb-9cf5-6fdb19030777 "Free Energy Diagram to Phase Diagram Example (PDF)" %}}
 
 Screw Dislocation Explained:  
 Patrick Shamberger. "[Screw Dislocations: Texas A&M: Intro to Materials (MSEN 201)](https://www.youtube.com/watch?v=TxJOP3hA6To)." August 27, 2014. Youtube.

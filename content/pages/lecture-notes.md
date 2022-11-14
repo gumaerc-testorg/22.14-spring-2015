@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes used for each session of the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -37,7 +39,7 @@ _Overview_
 Survey of Material Selection in Nuclear Systems
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1 Nuclear Materials Overview (PDF - 4.4MB)]({{< baseurl >}}/resources/mit22_14s15_lecture1)
+{{% resource_link e42f9a43-b1c0-5222-967c-9b53b686111d "Lecture 1 Nuclear Materials Overview (PDF - 4.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +55,7 @@ _The Language of Materials Science_
 Symmetry, Miller Indices
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Lecture 2 Symmetry and Structure (PDF - 2.2MB)]({{< baseurl >}}/resources/mit22_14s15_lecture2)  
+{{% resource_link 0c8d67b0-00d2-84c9-cee6-2bbbd878ca39 "Lecture 2 Symmetry and Structure (PDF - 2.2MB)" %}}  
  
 {{< tdclose >}}
 
@@ -79,7 +81,7 @@ _Thermodynamics_
 Phase Diagrams, Phase Transformations
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Lecture 3 Binary Phase Diagrams (PDF - 1.2MB)]({{< baseurl >}}/resources/mit22_14s15_lecture3)  
+{{% resource_link 415ce9aa-2d27-9b80-3020-04e46abd01f4 "Lecture 3 Binary Phase Diagrams (PDF - 1.2MB)" %}}  
  
 {{< tdclose >}}
 
@@ -137,7 +139,7 @@ _Radiation Damage and Effects_
 Stopping Power, Radiation Damage, DPA
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Lecture 5 Radiation Damage Mechanisms and Rates (PDF - 6.9MB)]({{< baseurl >}}/resources/mit22_14s15_lecture5)
+{{% resource_link 8241f0e1-6980-3b7f-e067-29844559ddc5 "Lecture 5 Radiation Damage Mechanisms and Rates (PDF - 6.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +160,7 @@ Displacement Rates, Radiation Point Defect Kinetics
 Radiation Effects in Materials, Fuels
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Lecture 6 Radiation Effects in Materials (PDF - 1.7MB)]({{< baseurl >}}/resources/mit22_14s15_lecture6)
+{{% resource_link e7d9c9ce-7a46-3c85-ffed-ffb77e086f39 "Lecture 6 Radiation Effects in Materials (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
