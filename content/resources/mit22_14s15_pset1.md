@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding problem set 1.
 file: /courses/22-14-materials-in-nuclear-engineering-spring-2015/55ab7fd301ea1be14eb6a673122c4c50_MIT22_14S15_Pset1.pdf
+file_size: 133322
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
