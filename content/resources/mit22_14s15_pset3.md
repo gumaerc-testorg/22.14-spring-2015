@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 3.
-file: /ol-ocw-studio-app/courses/22-14-materials-in-nuclear-engineering-spring-2015/c2616de49d66841be3f56389c783242c_MIT22_14S15_Pset3.pdf
+file: /courses/22-14-materials-in-nuclear-engineering-spring-2015/c2616de49d66841be3f56389c783242c_MIT22_14S15_Pset3.pdf
 file_size: 605175
 file_type: application/pdf
 learning_resource_types: []

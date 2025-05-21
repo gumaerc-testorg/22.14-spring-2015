@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding Materials in nuclear
   engineering lecture 6 radiation effects in materials.
-file: /ol-ocw-studio-app/courses/22-14-materials-in-nuclear-engineering-spring-2015/e7d9c9ce7a463c85ffedffb77e086f39_MIT22_14S15_Lecture6.pdf
+file: /courses/22-14-materials-in-nuclear-engineering-spring-2015/e7d9c9ce7a463c85ffedffb77e086f39_MIT22_14S15_Lecture6.pdf
 file_size: 1776270
 file_type: application/pdf
 learning_resource_types:
