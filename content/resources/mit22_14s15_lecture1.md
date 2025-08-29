@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding Materials in nuclear
   engineering lecture 1 nuclear materials overview.
-file: /courses/22-14-materials-in-nuclear-engineering-spring-2015/e42f9a43b1c05222967c9b53b686111d_MIT22_14S15_Lecture1.pdf
+file: /ol-ocw-studio-app/courses/22-14-materials-in-nuclear-engineering-spring-2015/e42f9a43b1c05222967c9b53b686111d_MIT22_14S15_Lecture1.pdf
 file_size: 4649543
 file_type: application/pdf
 learning_resource_types:
